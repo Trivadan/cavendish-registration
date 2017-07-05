@@ -10,3 +10,5 @@
 - [x] You can clone with HTTPS.
 - [x] Or open in desktop or download zipped file.
 
+# Update the site
+
